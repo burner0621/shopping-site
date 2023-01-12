@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+@import "main";
+@import "cart";
+@import "checkout";
+@import "shop";
+@import "welcome";
+@import "product";
+@import "~aos/dist/aos.css"
